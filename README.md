@@ -1,7 +1,7 @@
 
 <h1>Academy Machine</h1>
 
-<h2>**IP Address provided: 10.0.2.5**</h2>
+<h2>**IP Address provided: 10.0.2.7**</h2>
 
 This repository provides a comprehensive guide to the Academy Machine which is a Capture the Flag (CTF) challenge designed to test your skills in network scanning, web application testing, password cracking, privilege escalation, and system exploitation. This machine provides an opportunity to utilise a variety of tools and techniques commonly used in real-world penetration testing. You will encounter a combination of web-based vulnerabilities, system misconfigurations, and network-related challenges.
 
